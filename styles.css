@@ -1,0 +1,94 @@
+.accept {
+    width: 150px;
+}
+
+.decline {
+    width: 450px;
+}
+
+.question-2 {
+    display: none;
+    font-family: "Audiowide", sans-serif;
+
+}
+
+.NO {
+    display: none;
+}
+
+
+
+.info {
+    display: none;
+}
+
+.rightchoice {
+    display: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gun {
+    display: none;
+}
+
+.print {
+    display: none;
+    width: 145px;
+
+}
+
+.sus-1 {
+    display: none;
+}
+
+.knife {
+    display: none;
+
+}
+
+.knife-1 {
+    display: none;
+    font-family: "Audiowide", sans-serif;
+}
+
+.body {
+    display: none;
+}
+
+.light {
+    display: none;
+    height: 250px;
+    width: 200px;
+
+
+}
+
+.L {
+    display: none;
+
+}
+
+.print-2 {
+    display: none;
+    width: 145px;
+}
+
+.wrong-L {
+    display: none;
+}
+
+.end {
+    display: none;
+}
+
+body {
+    background-color: #6dc3cf;
+}
+
+.h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hr {
+    display: none;
+}
